@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+
+}
+
+header {
+    background-color: darkblue;
+    border-radius: 5px;
+    margin: 5px;
+    color: white;
+}
+
+main {
+    text-align: center;
+}
+a {
+    margin: 5px;
+    color: red;
+    text-decoration: none;
+}
+
+nav {
+    background-color: darkblue;
+    border-radius: 5px;
+    color: seagreen;
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+}
+
+footer {
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+}
+
+p {
+    background-color: seagreen;
+    color: yellow
+}
